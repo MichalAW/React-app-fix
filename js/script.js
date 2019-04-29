@@ -20,25 +20,25 @@ var movies = [
 	    id: 1,
 	    title: 'Harry Potter',
 	    desc: 'film o czarodzieju',
-        <img src="potter.jpg" alt="potter">
+        src: './images/potter.jpg'
   	},
   	{
 	    id: 2,
 	    title: 'Król Lew',
 	    desc: 'Film o królu sawanny',
-        <img src="lion.jpg" alt="lion">
+        src: './images/lion.jpg'
   	},
   	  	{
 	    id: 3,
 	    title: 'Władca Pierścieni',
 	    desc: 'film o władcy pierścieni',
-        <img src="lord.jpg" alt="lord">
+        src: './images/lord.jpg'
   	},
   	{
 	    id: 4,
 	    title: 'Gra o tron',
 	    desc: 'Film o królewskich rodach',
-        <img src="game.jpg" alt="game">
+        src: './images/game.jpg'
   	}
 ];
 
