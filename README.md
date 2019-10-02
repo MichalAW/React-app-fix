@@ -1,3 +1,3 @@
 # 18.React
-repository --> https://github.com/MichalAW/18.React.git
-site --> https://michalaw.github.io/18.2.React-app-fix/
+repository --> https://github.com/MichalAW/React-app-fix/
+site --> https://michalaw.github.io/React-app-fix/
